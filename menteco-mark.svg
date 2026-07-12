@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Menteco standalone M mark — transparent background -->
+  <polyline points="30,74 30,28 50,56 70,28 70,74"
+    fill="none" stroke="#5B4FE9" stroke-width="12"
+    stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
